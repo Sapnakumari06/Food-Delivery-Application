@@ -4,6 +4,7 @@
 This is a web-based food delivery application built using the MERN (MongoDB, Express.js, React, Node.js) stack. The app allows users to browse nearby restaurants, place orders, track deliveries in real-time, create user profiles, and make secure payments.
 
 **Key Features:**
+
 - Browse and search for restaurants and dishes.
 - User authentication and profile management.
 - Real-time order tracking with interactive maps.
